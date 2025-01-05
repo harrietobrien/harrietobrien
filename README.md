@@ -3,7 +3,6 @@
 <br />
 <!--
 [![harrietobrien's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harrietobrien&exclude_repo=&hide=HTML,CSS,MATLAB&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<br />
 [My AUR Packages](https://aur.archlinux.org/packages?K=harrietobrien&SeB=m)
 <br />
 [My Pacstall Packages](https://pacstall.dev/packages?page=0&size=25&sortBy=default&sort=asc&filter=harrietobrien&filterBy=maintainer)
