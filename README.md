@@ -7,7 +7,6 @@
 <br />
 [My Pacstall Packages](https://pacstall.dev/packages?page=0&size=25&sortBy=default&sort=asc&filter=harrietobrien&filterBy=maintainer)
 <br />
-[Genarris 2.0: A random structure generator for molecular crystals](https://doi.org/10.1016/j.cpc.2020.107170) ➜ [Program Files DOI](http://dx.doi.org/10.17632/grx6mz4pjn.1)
-<br />
+<!-- [Genarris 2.0: A random structure generator for molecular crystals](https://doi.org/10.1016/j.cpc.2020.107170) ➜ [Program Files DOI](http://dx.doi.org/10.17632/grx6mz4pjn.1) -->
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
