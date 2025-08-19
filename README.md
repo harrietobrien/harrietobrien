@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/harrietobrien/harrietobrien/main/avatar.png" alt="avatar" width="150"/>
 </p>
 
